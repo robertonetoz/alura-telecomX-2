@@ -1,4 +1,4 @@
-# Projeto TelecomX: Previsão de Evasão de Clientes
+# Projeto TelecomX  - Parte 2
 
 ## 📋 Descrição
 
